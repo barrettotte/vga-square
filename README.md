@@ -1,9 +1,8 @@
-# fpga-dev-vscode
+# vga-clock
 
-Simple FPGA development workflow with VS Code.
+Display simple digital clock over VGA.
 
-The goal of this workflow is to avoid opening Vivado GUI.
-The example in this repo is a simple 1Hz LED blink using Basys 3 Artix-7 board (XC7A35TCPG236-1).
+Targets Basys 3 Artix-7 board (XC7A35TCPG236-1).
 
 ## Development
 
