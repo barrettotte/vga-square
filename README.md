@@ -1,8 +1,10 @@
 # vga-square
 
-Bounce a square around a screen.
+Bounce a square around a VGA display using FPGA.
 
 Targets Basys 3 Artix-7 board (XC7A35TCPG236-1).
+
+![./vga-square.gif](./vga-square.gif)
 
 ## Development
 
