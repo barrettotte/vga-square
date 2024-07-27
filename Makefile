@@ -14,7 +14,7 @@ VIVADO_SETTINGS := $(VIVADO_ROOT)/settings64.bat
 
 # TCL args
 FPGA_PART := xc7a35tcpg236-1
-DESIGN_NAME := vga-clock
+DESIGN_NAME := vga-square
 TOP_MODULE := top
 HDL_TYPE := v
 SIM_TIME := 50ns

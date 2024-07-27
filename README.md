@@ -1,6 +1,6 @@
-# vga-clock
+# vga-square
 
-Display simple digital clock over VGA.
+Bounce a square around a screen.
 
 Targets Basys 3 Artix-7 board (XC7A35TCPG236-1).
 
@@ -47,3 +47,4 @@ make gui
 - [Basys 3 Reference Manual](https://digilent.com/reference/programmable-logic/basys-3/reference-manual)
 - [Vivado Design Suite Tcl Command Reference Guide](https://docs.amd.com/r/en-US/ug835-vivado-tcl-commands)
 - https://projectf.io/posts/vivado-tcl-build-script/
+- http://www.tinyvga.com/vga-timing/640x480@60Hz
